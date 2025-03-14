@@ -30,7 +30,7 @@ void loop() {
     }
 }
 
-## FUNCTIONS:\
+## FUNCTIONS:
 Dymer (ms) - Create a timer with ms wait time.\
 setTime(ms) - Change the wait time.\
 start() - Start or restart the timer.\
