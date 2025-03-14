@@ -8,10 +8,10 @@ If you use it, think of him.
 - Is good for blinking LEDs, timing events, etc.
 
 ## You:
-1. Create a Dymer object with a wait time (milliseconds).
-2. Start the timer using start().
+- Create a Dymer object with a wait time (milliseconds).
+- Start the timer using start().
     - You can RE-start the timer at any time using start()
-3. Check if the time has passed using beepBoop(). Returns true/false.
+- Check if the time has passed using beepBoop(). Returns true/false.
 
 ## EXAMPLE:
 #include <Dymer.h>
