@@ -35,8 +35,3 @@ setTime(ms) - Change the wait time.
 start() - Start or restart the timer.
 currentMs() - Get current time (millis()).
 beepBoop() - Returns true if the time is up.
-
-NOTES:
-- Non-blocking (doesn't pause your program like delay()).
-- Restart it anytime with start().
-- Works well for multiple timers.
